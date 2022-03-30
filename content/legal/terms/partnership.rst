@@ -18,8 +18,8 @@ Odoo Partnership Agreement
 |  Odoo S.A., having its registered office at Chaussée de Namur, 40, 1367 Grand-Rosière,
 |  Belgium, and its affiliates (collectively referred to as “ODOO”)
 | AND:
-|  _____________________________________________, a company having its registered office at
-|  _____________________________________________________________________________________.
+|  Ditay Media S.L., a company having its registered office at
+|  Calle Monasterio de las Huelgas, 25, Madrid, 28049 , Madrid.
 |  (hereinafter referred to as “PARTNER”)
 
 ODOO and PARTNER are individually referred to as a "Party" and collectively referred to as
